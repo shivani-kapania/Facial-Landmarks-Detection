@@ -1,4 +1,4 @@
-# Facial-Landmarks-Detection
+# Facial Landmarks Detection using Dlib and OpenCV
 
 Facial landmarks are used to localize and represent salient regions of the face, such as: eyes, eyebrows, nose, mouth, jawline. 
 
